@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-Yx&theme=vue&layout=compact)](https://github.com/Jin-Yx)
-   
-<img src="https://github-profile-trophy.vercel.app/?username=Jin-Yx&theme=flat&column=4" alt="logo" align="center" style="margin: auto; margin-bottom: 20px;" />
-
-
