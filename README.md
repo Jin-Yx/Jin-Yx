@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <p align="start">
   <a href="https://github.com/Jin-Yx">
@@ -22,3 +21,5 @@ Here are some ideas to get you started:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin-Yx&theme=vue&layout=compact)](https://github.com/Jin-Yx)
+
+-->
